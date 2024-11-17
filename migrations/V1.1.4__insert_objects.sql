@@ -1,0 +1,4 @@
+USE SCHEMA DEMO;
+
+INSERT INTO HELLO_WORLD
+VALUES ('Pranil','Parbalkar',36);
